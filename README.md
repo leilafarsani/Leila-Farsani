@@ -23,3 +23,5 @@ npm run dev
 4. Edited page.tsx inside the app folder 
 
 5. Inside the app folder created a folder named scenes, and inside that I created a file named Hero.tsx for my first page and started with creating the functional component Hero with rafce.
+
+6. In the main root I created my components folder, so I can locate all the components I am creating later on inside it.

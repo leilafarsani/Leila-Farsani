@@ -20,3 +20,4 @@ npm i react-icons framer-motion @mui/material @emotion/react @emotion/styled
 ```
 npm run dev
 ```
+4. Edited page.tsx inside the app folder 

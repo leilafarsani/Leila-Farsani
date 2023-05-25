@@ -27,3 +27,5 @@ npm run dev
 6. In the main root I created my components folder, so I can locate all the components I am creating later on inside it.
 
 7. As I decided to have Hero page as my homepage, so I imported it into page.tsx.
+
+8. As I'm going to have more than one button in the same form, then I created a component for it.
